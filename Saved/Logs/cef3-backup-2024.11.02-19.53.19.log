@@ -1,0 +1,13 @@
+[1102/143209.636:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1102/143409.102:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1102/144428.478:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1102/144654.798:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1102/144803.542:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1102/144933.493:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[1102/145317.510:ERROR:angle_platform_impl.cc(43)] Renderer11.cpp:2135 (testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0005
+[1102/145317.510:ERROR:shared_context_state.cc(826)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[1102/145317.511:ERROR:gpu_service_impl.cc(1187)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[1102/145318.666:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1102/145318.696:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1102/145318.696:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[1102/145319.317:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 275 ms
