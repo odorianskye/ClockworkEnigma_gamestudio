@@ -15,3 +15,10 @@ Saved/AutoScreenshot.png
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Logs/MyProject.log
 Saved/Telemetry/Telemetry.json
+<<<<<<< Updated upstream
+=======
+Saved/Crashes/UECC-Windows-5E13DFB9449A87CE4D92F6BDFAA75D82_0000/CrashReportClient.ini
+Saved/Crashes/UECC-Windows-2AB62B5E49732B93572B03B929C8A304_0000/CrashReportClient.ini
+*.json
+>>>>>>> Stashed changes
+Saved/Telemetry/Telemetry.json
