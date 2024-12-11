@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_D.uasset",
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_H.uasset",
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Materials/M_Building04_RoofTop.uasset",
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Materials/M_Road.uasset",
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Blueprints/BP_Building04.uasset",
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Materials/M_SPStreetLight01_Light.uasset",
+				"C:/Users/olive/Documents/Columbia/GameStudio/Clockwork Enigma/SteampunkEnvironment/SteampunkEnvironment/Content/SteamPunkEnvironment01/Materials/M_SPStreetLight01Mat01.uasset"
+			]
+		}
+	]
+}
